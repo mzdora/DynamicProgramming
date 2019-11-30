@@ -9,7 +9,7 @@
 但还是在这里厚脸皮的发一下数据结构实现的地址:[数据结构](https://github.com/mzdora/DataStructure)</br>
 ###
 目录  
-第一讲 01 背包问题  
+第一讲 [01 背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/01%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
 第二讲 完全背包问题  
 第三讲 多重背包问题  
 第四讲 混合三种背包问题  
