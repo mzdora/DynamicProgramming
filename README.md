@@ -1,5 +1,5 @@
 # 背包问题九讲Java实现
-有意无意的在网上看到了 **动态规划(BP)** 的入门书，叫<背包九讲>，是dd_engi大佬著的一本针对NOIP难度的BP入门书。</br>
+有意无意的在网上看到了 **动态规划(BP)** 的入门书，叫[<背包九讲>](https://github.com/mzdora/DynamicProgramming/blob/master/%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.pdf)，是dd_engi大佬著的一本针对NOIP难度的BP入门书。</br>
 其实最近自己也对动态规划挺感兴趣的，尤其是在LeetCode上有很多问题都能用动态规划解决。</br>
 有人说你数据结构那一块还没更新完呢就开新坑。</br>
 **红黑树、哈希表、B+树、Trie、线段树、并查集、AVL** 还有一些图论的东西也没更新。</br>
