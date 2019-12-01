@@ -26,3 +26,14 @@
 只能说人各有志，正因为有这些有趣的算法和数据结构、以及这些数学的沉淀，科学才更好玩。</br>
 科学不是跑数据，需要静心。</br>
 大家也要加油。</br>
+###
+01背包问题的状态转移方程:</br>
+
+![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi-1%5D%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)</br>
+![](http://latex.codecogs.com/gif.latex?dp%5Bv%5D%20%3D%20Math.max%28dp%5Bv%5D%2Cdp%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)</br>
+
+完全背包问题的状态转移方程:</br>
+![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi-1%5D%5Bv%20-%20k%20%5Ctimes%20c%5Bi%5D%5D%20&plus;%20k%20%5Ctimes%20w%5Bi%5D%29%3B)</br>
+![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi%5D%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)
+
+...</br>
