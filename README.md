@@ -28,7 +28,6 @@
 大家也要加油。</br>
 ###
 01背包问题的状态转移方程:</br>
-
 ![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi-1%5D%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)</br>
 ![](http://latex.codecogs.com/gif.latex?dp%5Bv%5D%20%3D%20Math.max%28dp%5Bv%5D%2Cdp%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)</br>
 
