@@ -35,4 +35,5 @@
 ![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi-1%5D%5Bv%20-%20k%20%5Ctimes%20c%5Bi%5D%5D%20&plus;%20k%20%5Ctimes%20w%5Bi%5D%29%3B)</br>
 ![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi%5D%5Bv-c%5Bi%5D%5D&plus;w%5Bi%5D%29)
 
-...</br>
+多重背包问题的状态转移方程:(和完全背包一致)</br>
+![](http://latex.codecogs.com/gif.latex?dp%5Bi%5D%5Bv%5D%20%3D%20Math.max%28dp%5Bi-1%5D%5Bv%5D%2Cdp%5Bi-1%5D%5Bv%20-%20k%20%5Ctimes%20c%5Bi%5D%5D%20&plus;%20k%20%5Ctimes%20w%5Bi%5D%29%3B)</br>
