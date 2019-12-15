@@ -1,5 +1,5 @@
-[Fixbag01.java](https://github.com/mzdora/DynamicProgramming/blob/master/01背包问题/Fixbag01.java) : 实现空间优化 </br>
-[bag01.java](https://github.com/mzdora/DynamicProgramming/blob/master/01背包问题/bag01.java) : 基础思路
+Fixbag01.java : 实现空间优化 </br>
+bag01.java : 基础思路
 
 1. 其实还有一种**暴力搜索法**，我把伪代码贴上。
 
