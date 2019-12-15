@@ -1,6 +1,5 @@
-| [Fixbag01.java]("https://github.com/mzdora/DynamicProgramming/blob/master/01 背包问题/Fixbag01.java") | [bag01.java]("https://github.com/mzdora/DynamicProgramming/blob/master/01 背包问题/bag01.java") |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 实现空间优化                                                 | 基础思路                                                     |
+[Fixbag01.java](https://github.com/mzdora/DynamicProgramming/blob/master/01背包问题/Fixbag01.java) : 实现空间优化 </br>
+[bag01.java](https://github.com/mzdora/DynamicProgramming/blob/master/01背包问题/bag01.java) : 基础思路
 
 1. 其实还有一种**暴力搜索法**，我把伪代码贴上。
 
@@ -19,7 +18,8 @@
 
 2. 贪心算法
 
-   所有的贪心算法都是错误的。
+   ~~我们尝试用贪心算法解决问题。~~
+   所有的贪心算法都是**错误**的！
 
    **取单位价值最高:**
 
