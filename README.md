@@ -11,7 +11,7 @@
 目录  
 第一讲 [01 背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/01%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
 第二讲 [完全背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
-第三讲 多重背包问题  
+第三讲 [多重背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
 第四讲 混合三种背包问题  
 第五讲 二维费用的背包问题  
 第六讲 分组的背包问题  
