@@ -1,5 +1,6 @@
-# 背包问题九讲Java实现
+# 背包问题九讲,股票问题六讲 Java实现
 有意无意的在网上看到了 **动态规划(BP)** 的入门书，叫[<背包九讲>](https://github.com/mzdora/DynamicProgramming/blob/master/%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.pdf)，是dd_engi大佬著的一本针对NOIP难度的BP入门书。</br>
+另外在LeetCode上看到有动态规划[<股票问题>](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)，根据labuladong的题解来对股票问题进行分析。</br>
 其实最近自己也对动态规划挺感兴趣的，尤其是在LeetCode上有很多问题都能用动态规划解决。</br>
 有人说你数据结构那一块还没更新完呢就开新坑。</br>
 **红黑树、哈希表、B+树、Trie、线段树、并查集、AVL** 还有一些图论的东西也没更新。</br>
@@ -9,6 +10,7 @@
 但还是在这里厚脸皮的发一下数据结构实现的地址:[数据结构](https://github.com/mzdora/DataStructure)</br>
 ###
 目录  
+**背包问题**</br>
 第一讲 [01 背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/01%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
 第二讲 [完全背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
 第三讲 [多重背包问题](https://github.com/mzdora/DynamicProgramming/tree/master/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98)  
@@ -18,6 +20,14 @@
 第七讲 有依赖的背包问题  
 第八讲 泛化物品  
 第九讲 背包问题问法的变化
+
+**股票问题**</br>
+第十讲 买卖股票的最佳时机</br>
+第十一讲 买卖股票的最佳时机 II</br>
+第十二讲 买卖股票的最佳时机 III</br>
+第十三讲 买卖股票的最佳时机 IV</br>
+第十四讲 最佳买卖股票时机含冷冻期</br>
+第十五讲 买卖股票的最佳时机含手续费</br>
 ###
 每当我完成一讲，目录将会变成一个可点击的链接。</br>
 由Java语言实现，说不定哪天我也会用Python实现 :D(后话)</br>
