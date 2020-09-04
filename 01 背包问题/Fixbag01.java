@@ -17,7 +17,7 @@ public class Fixbag01{
 
         int[] dp = new int[V+1];
 
-        for(int i=1;i<N;i++){
+        for(int i=1;i<=N;i++){
             for(int v=V;v>=0;v--){
                 if(v-items_volume[i] > 0)
                     dp[v] = Math.max(dp[v],dp[v-items_volume[i]]+items_cost[i]);
