@@ -1,5 +1,5 @@
 # 背包问题九讲,股票问题六讲 Java实现
-有意无意的在网上看到了 **动态规划(BP)** 的入门书，叫[<背包九讲>](https://github.com/mzdora/DynamicProgramming/blob/master/%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.pdf)，是dd_engi大佬著的一本针对NOIP难度的BP入门书。</br>
+有意无意的在网上看到了 **动态规划(DP)** 的入门书，叫[<背包九讲>](https://github.com/mzdora/DynamicProgramming/blob/master/%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.pdf)，是dd_engi大佬著的一本针对NOIP难度的DP入门书。</br>
 另外在LeetCode上看到有动态规划[<股票问题>](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)，根据labuladong的[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/yi-ge-fang-fa-tuan-mie-6-dao-gu-piao-wen-ti-by-l-3/)来对股票问题进行分析。</br>
 其实最近自己也对动态规划挺感兴趣的，尤其是在LeetCode上有很多问题都能用动态规划解决。</br>
 有人说你数据结构那一块还没更新完呢就开新坑。</br>
